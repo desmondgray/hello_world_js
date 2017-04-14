@@ -1,0 +1,19 @@
+{
+  "name": "hello_world_js",
+  "version": "1.0.0",
+  "description": "a hello world program in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmondgray/hello_world_js.git"
+  },
+  "author": "Desmond Gray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desmondgray/hello_world_js/issues"
+  },
+  "homepage": "https://github.com/desmondgray/hello_world_js#readme"
+}
